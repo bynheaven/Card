@@ -30,7 +30,6 @@
     display: flex;
     gap: 32px;
     list-style: none;
-    background-color: var(--background-color);
 }
 
 .navbar__links a {
